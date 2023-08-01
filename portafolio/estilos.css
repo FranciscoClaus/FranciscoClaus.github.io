@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+    margin: 0%
+}
+
+.tablas {
+    text-align: center;
+    border-spacing: 200px 10px;
+    margin: 0 auto;
+
+}
+
+th {
+    background-color: rgb(151, 151, 151);
+}
+
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formulario {
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+#div-0 {
+    padding: 0px 20px;
+
+}
+
+#div-1 {
+    background-color: black;
+    padding: 50px 50px 20px;
+
+}
+
+.imagen {
+    width: 60px;
+
+}
+
+#nombre {
+    color: white;
+}
